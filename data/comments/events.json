@@ -1,0 +1,145 @@
+[
+  {
+    "id": "6639466c-d3fd-4343-b7fd-88c24f919081",
+    "name": "Event 3",
+    "tagline": "Art exhibition",
+    "schedule": "2023-09-05",
+    "description": "An exhibition showcasing talented artists and their works.",
+    "moderator": "Emma Davis",
+    "category": "Arts",
+    "subCategory": "Visual Arts",
+    "rigorRank": 2
+  },
+  {
+    "id": "886e68e8-5d57-4c86-a5ea-bccca1c260de",
+    "name": "Event 4",
+    "tagline": "Fitness workshop",
+    "schedule": "2023-07-25",
+    "description": "A workshop to promote fitness and healthy living.",
+    "moderator": "John Wilson",
+    "category": "Health",
+    "subCategory": "Fitness",
+    "rigorRank": 3
+  },
+  {
+    "id": "571fdb16-53d9-435d-886c-463ca80c55e0",
+    "name": "Event 5",
+    "tagline": "Music concert",
+    "schedule": "2023-08-10",
+    "description": "A thrilling concert featuring renowned musicians.",
+    "moderator": "Sophia Lee",
+    "category": "Entertainment",
+    "subCategory": "Music",
+    "rigorRank": 3
+  },
+  {
+    "id": "debefa11-fabc-41d8-bf34-6bfab90aab7d",
+    "name": "Event 6",
+    "tagline": "Educational seminar",
+    "schedule": "2023-09-12",
+    "description": "A seminar to impart knowledge and insights on various subjects.",
+    "moderator": "David Brown",
+    "category": "Education",
+    "subCategory": "General",
+    "rigorRank": 4
+  },
+  {
+    "id": "3606e198-8b94-4536-b129-d12a1880c55e",
+    "name": "Event 7",
+    "tagline": "Food festival",
+    "schedule": "2023-07-30",
+    "description": "A festival celebrating diverse cuisines and culinary experiences.",
+    "moderator": "Olivia Taylor",
+    "category": "Food",
+    "subCategory": "Culinary",
+    "rigorRank": 2
+  },
+  {
+    "id": "b95d95c9-a8f7-4990-bd91-6756b8d7f2b0",
+    "name": "Event 8",
+    "tagline": "Sports tournament",
+    "schedule": "2023-08-05",
+    "description": "An exciting sports tournament with multiple disciplines.",
+    "moderator": "Michael Johnson",
+    "category": "Sports",
+    "subCategory": "Various",
+    "rigorRank": 4
+  },
+  {
+    "id": "8359d932-267f-43e2-86fd-266a0ba2d625",
+    "name": "Event 9",
+    "tagline": "Fashion show",
+    "schedule": "2023-09-18",
+    "description": "A glamorous fashion show featuring the latest trends.",
+    "moderator": "Lily Anderson",
+    "category": "Fashion",
+    "subCategory": "Runway",
+    "rigorRank": 3
+  },
+  {
+    "id": "4b1a4692-825e-4747-bded-36af68cdaf3e",
+    "name": "Event 10",
+    "tagline": "Charity gala",
+    "schedule": "2023-08-15",
+    "description": "A gala event to raise funds for a charitable cause.",
+    "moderator": "James Wilson",
+    "category": "Charity",
+    "subCategory": "Fundraising",
+    "rigorRank": 2
+  },
+  {
+    "id": "bd3a72c1-8497-4559-9b5b-ccfef87420c3",
+    "name": "Event 10",
+    "tagline": "Charity gala",
+    "schedule": "2023-08-15",
+    "description": "A gala event to raise funds for a charitable cause.",
+    "moderator": "James Wilson",
+    "category": "Charity",
+    "subCategory": "Fundraising",
+    "rigorRank": 2
+  },
+  {
+    "id": "f718a62a-b7ce-4616-a213-cf0b71122aa5",
+    "name": "Event 12",
+    "tagline": "Charity gala",
+    "schedule": "2023-08-15",
+    "description": "A gala event to raise funds for a charitable cause.",
+    "moderator": "James Wilson",
+    "category": "Charity",
+    "subCategory": "Fundraising",
+    "rigorRank": 2
+  },
+  {
+    "id": "8d131f5d-6d22-4748-9f59-00cc31d140b7",
+    "name": "Event 13",
+    "tagline": "Charity gala",
+    "schedule": "2023-08-15",
+    "description": "A gala event to raise funds for a charitable cause.",
+    "moderator": "James Wilson",
+    "category": "Charity",
+    "subCategory": "Fundraising",
+    "rigorRank": 2
+  },
+  {
+    "id": "06047753-fbb5-407a-954c-f7afb776e5e2",
+    "name": "Event 14",
+    "tagline": "Charity gala",
+    "schedule": "2023-08-15",
+    "description": "A gala event to raise funds for a charitable cause.",
+    "moderator": "James Wilson",
+    "category": "Charity",
+    "subCategory": "Fundraising",
+    "rigorRank": 2
+  },
+  {
+    "id": "f5a8edb0-d0cf-4b5e-ae47-9c3555dc8e35",
+    "name": "Event 6",
+    "tagline": "Educational seminar",
+    "schedule": "2023-09-12",
+    "description": "A seminar to impart knowledge and insights on various subjects.",
+    "moderator": "David Brown",
+    "category": "Education",
+    "subCategory": "General",
+    "rigorRank": 4
+  }
+]
